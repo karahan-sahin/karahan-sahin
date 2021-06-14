@@ -5,7 +5,7 @@ I am Karahan Şahin. I am Senior Linguistics Student in Bogazici University. I h
 - CMPE493 - [INFORMATION RETRIEVAL](https://github.com/karahan-sahin/information-retrival-projects)
 - MIS584 - [APPLIED MACHINE LEARNING](https://github.com/karahan-sahin/applied-ml-notebooks)
 - MIS49M - [MOBILE APP DEVELOPMENT](https://github.com/karahan-sahin/CoursePlannerApp)
-- 
+
 Also I am currently working on regex based text processing in [BOUN TABILAB](https://tabilab.cmpe.boun.edu.tr/) and linguistic annotation with [Universal Dependencies](https://universaldependencies.org/) Framework
 
 ⚡ I am interested in:
