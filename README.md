@@ -4,10 +4,11 @@ I am Karahan Şahin. I am Senior Linguistics Student in Bogazici University. I h
 
 - CMPE493 - [INFORMATION RETRIEVAL](https://github.com/karahan-sahin/information-retrival-projects)
 - MIS584 - [APPLIED MACHINE LEARNING](https://github.com/karahan-sahin/applied-ml-notebooks)
-
+- MIS49M - [MOBILE APP DEVELOPMENT](https://github.com/karahan-sahin/CoursePlannerApp)
+- 
 Also I am currently working on regex based text processing in [BOUN TABILAB](https://tabilab.cmpe.boun.edu.tr/) and linguistic annotation with [Universal Dependencies](https://universaldependencies.org/) Framework
 
-I am interested in:
+⚡ I am interested in:
 
 - Data Mining (Web Crawlers)
 - Data Analysis
@@ -15,6 +16,11 @@ I am interested in:
 - Sentiment Analysis
 - Topic Modelling
 - Named Entity Recognition
+
+🔭 I’m currently working on
+  - Sentiment Analysis Pipeline
+  - Course Planner App For Bogazici University 
+
 
 <!--
 **karahan-sahin/karahan-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
