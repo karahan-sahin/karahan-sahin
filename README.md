@@ -19,7 +19,7 @@ Also I am currently working on regex based text processing in [BOUN TABILAB](htt
 
 🔭 I’m currently working on
   - Sentiment Analysis Pipeline
-  - Course Planner App For Bogazici University 
+  - [x] Course Planner App For Bogazici University 
 
 
 <!--
