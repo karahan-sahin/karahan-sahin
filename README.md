@@ -18,8 +18,8 @@ Also I am currently working on regex based text processing in [BOUN TABILAB](htt
 - Named Entity Recognition
 
 🔭 I’m currently working on
-  - [x] Sentiment Analysis Pipeline
-  - [x] Course Planner App For Bogazici University 
+  - [x] [Sentiment Analysis Pipeline](https://github.com/karahan-sahin/absa-study)
+  - [x] [Course Planner App For Bogazici University](https://github.com/karahan-sahin/CoursePlannerApp)
 
 
 <!--
