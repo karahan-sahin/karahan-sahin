@@ -18,7 +18,7 @@ Also I am currently working on regex based text processing in [BOUN TABILAB](htt
 - Named Entity Recognition
 
 🔭 I’m currently working on
-  - Sentiment Analysis Pipeline
+  - [x] Sentiment Analysis Pipeline
   - [x] Course Planner App For Bogazici University 
 
 
