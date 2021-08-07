@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Update: I have started working at [Artiwise](https://www.artiwise.com/) as Data Science Intern which I am working Sentence Segmentation and Topic Modeling.
+
 I am Karahan Şahin. I am Senior Linguistics Student in Bogazici University. I have been learning coding in last 2 years. In that period of time, I have implemented python based codes in CS courses:
 
 - CMPE493 - [INFORMATION RETRIEVAL](https://github.com/karahan-sahin/information-retrival-projects)
