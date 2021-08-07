@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Update: I have started working at [Artiwise](https://www.artiwise.com/) as Data Science Intern which I am working Sentence Segmentation and Topic Modeling.
+Updates: 
+
+- I have started working at [Artiwise](https://www.artiwise.com/) as Data Science Intern which I am working Sentence Segmentation and Topic Modeling.
+- I have started working on Front-end Development at  [BOUN TABILAB](https://tabilab.cmpe.boun.edu.tr/).
+- I have accepted to [Data Science Bootcamp by Vitra-Patika](https://www.patika.dev/programlar/vitra-veri-bilimi-bootcamp)
 
 I am Karahan Şahin. I am Senior Linguistics Student in Bogazici University. I have been learning coding in last 2 years. In that period of time, I have implemented python based codes in CS courses:
 
@@ -22,7 +26,6 @@ Also I am currently working on regex based text processing in [BOUN TABILAB](htt
 🔭 I’m currently working on
   - [x] [Sentiment Analysis Pipeline](https://github.com/karahan-sahin/absa-study)
   - [x] [Course Planner App For Bogazici University](https://github.com/karahan-sahin/CoursePlannerApp)
-
 
 <!--
 **karahan-sahin/karahan-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
