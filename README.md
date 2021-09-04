@@ -2,7 +2,7 @@
 
 Updates: 
 
-- I have started working at [Artiwise](https://www.artiwise.com/) as Data Science Intern which I am working Sentence Segmentation and Topic Modeling.
+- I have started working at [Artiwise](https://www.artiwise.com/) as Junior Data Sciencist which I am working Sentence Segmentation and Topic Modeling.
 - I have started working on Front-end Development at  [BOUN TABILAB](https://tabilab.cmpe.boun.edu.tr/).
 - I have accepted to [Data Science Bootcamp by Vitra-Patika](https://www.patika.dev/programlar/vitra-veri-bilimi-bootcamp)
 
