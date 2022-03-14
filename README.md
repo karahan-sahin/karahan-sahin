@@ -16,8 +16,8 @@ I am Karahan Şahin. I am Senior Linguistics Student in Bogazici University. I h
   - Natural Language Understanding
 
 🔭 I’m currently working on
-  - [] [Neural Morphological Analysis](https://github.com/karahan-sahin/Char-Level-Morphological-Parsing-with-Transformers)
-  - [] [Ellipsis Modelin]()
+  - [ ] [Neural Morphological Analysis](https://github.com/karahan-sahin/Char-Level-Morphological-Parsing-with-Transformers)
+  - [ ] [Ellipsis Modeling]()
 
 <!--
 **karahan-sahin/karahan-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
