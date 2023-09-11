@@ -2,15 +2,13 @@
 
 Updates: 
 
-- I have started working at [De Canaria](http://www.decanaria.com) as Junior Data Engineer
-- I have started working at [Boğaziçi University](https://www.artiwise.com/) as Undergraduate Teaching Assistant for LING360 - COMPUTATIONAL METHODS IN LINGUISTICS
-
-I am Karahan Şahin. I am Senior Linguistics Student in Bogazici University. I have been learning coding in last 2 years. In that period of time, I have implemented python based codes in CS courses
-
+- I have started working at [Aposto](http://www.aposto.com) as AI Developer
+- I have started working at [Boğaziçi University](https://www.boun.edu.tr/) as Graduate Teaching Assistant for LING360 - COMPUTATIONAL METHODS IN LINGUISTICS
 
 ⚡ I am interested in:
 
-- Data Mining (Web Crawlers)
+- Data Engineering
+- Sign Language Recognition
 - Natural Language Processing
   - Representational Learning
   - Natural Language Understanding
