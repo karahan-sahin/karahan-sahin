@@ -15,7 +15,7 @@ Updates:
 
 🔭 I’m currently working on
   - [ ] [Neural Morphological Analysis](https://github.com/karahan-sahin/Char-Level-Morphological-Parsing-with-Transformers)
-  - [ ] [Ellipsis Modeling]()
+  - [ ] [Continouos Sign Language Recognition]()
 
 <!--
 **karahan-sahin/karahan-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
