@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karahan</h1>
 <h3 align="center">A language instructor for computers</h3>
 
-- 🔭 I’m currently working on [Sign Language Recognition with Transformers](https://github.com/karahan-sahin/SignMAE)
+- 🔭 I’m currently working on [Sign Language Translation with LLMs](https://github.com/karahan-sahin/sign2vec)
 
 - 🌱 I’m currently learning **Graph Neural Networks, Transformer-variants**
 
